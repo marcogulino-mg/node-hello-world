@@ -1,0 +1,24 @@
+{
+  "name": "node-helloworld",
+  "version": "1.0.0",
+  "description": "esercizio npm e node.js 03-02-2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcogulino-mg/node-hello-world.git"
+  },
+  "keywords": [
+    "node",
+    "live",
+    "coding"
+  ],
+  "author": "Marco Gulino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcogulino-mg/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/marcogulino-mg/node-hello-world#readme"
+}
